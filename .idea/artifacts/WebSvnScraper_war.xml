@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebSvnScraper:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebSvnScraper_war</output-path>
+    <root id="archive" name="WebSvnScraper_war.war">
+      <element id="artifact" artifact-name="WebSvnScraper:war exploded" />
+    </root>
+  </artifact>
+</component>
